@@ -9,5 +9,6 @@
 <body>
 	<h1>성공</h1>
 	<h1>git test!!</h1>
+	<h1>git test2</h1>
 </body>
 </html>
